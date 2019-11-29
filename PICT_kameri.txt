@@ -1,0 +1,7 @@
+Trademark: A4Tech, Avonic, Defender, Gembird, Gemix, Genius, HP, Logitech, MAXXTER, Microsoft, OMEGA, Razer, REAL-EL, SVEN, Trust
+
+Mount: Desktop, Clothespin, Universal
+
+Built-in microphone: Yes, No
+
+Video resolution: VGA(640x480), HD(1280x720), 1280x1024, 1600x1200, FullHD(1920x1080), 4K(4096x2160)
